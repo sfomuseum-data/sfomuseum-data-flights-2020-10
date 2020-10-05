@@ -2,7 +2,7 @@
   "id": 1729277499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2020-10-05T01:10:00Z",
+    "edtf:cessation": "2020-10-04T11:06:29-07:00",
     "edtf:inception": "2020-10-04T20:44:00Z",
     "flysfo:actual_timestamp": 1601860620,
     "flysfo:airline": "DL",
@@ -39,23 +39,24 @@
     "src:geom": "flysfo",
     "src:geom_alt": [
       "swim-route", 
-      "swim-path"
+      "swim-path", 
+      "swim-approach"
     ],
     "swim:tail_number": "N818DA",
     "wof:belongsto": [
-      85688637, 
-      1477855605, 
-      85633793, 
-      1477855669, 
-      1477855657, 
-      85922583, 
-      554784711, 
-      102527513, 
-      102191575, 
-      1477930321, 
+      102087579, 
       1729277499, 
       102085387, 
-      102087579
+      1477855669, 
+      102191575, 
+      85688637, 
+      102527513, 
+      85633793, 
+      1477930321, 
+      1477855657, 
+      1477855605, 
+      85922583, 
+      554784711
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -101,7 +102,7 @@
       1477930321, 
       1377564285
     ],
-    "wof:lastmodified": 1601921926,
+    "wof:lastmodified": 1601924080,
     "wof:name": "DL720 (DTW-SFO)",
     "wof:parent_id": 1477930321,
     "wof:placetype": "event",

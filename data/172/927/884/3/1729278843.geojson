@@ -38,23 +38,24 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-path"
+      "swim-path", 
+      "swim-takeoff"
     ],
     "swim:tail_number": "N110DU",
     "wof:belongsto": [
+      85633793, 
+      102087579, 
+      1477930321, 
+      1477855657, 
+      102527513, 
       1729278843, 
       85688637, 
-      1477930321, 
+      1477855605, 
+      554784711, 
       102191575, 
-      102087579, 
-      102527513, 
-      1477855669, 
-      85633793, 
-      1477855657, 
       102085387, 
       85922583, 
-      1477855605, 
-      554784711
+      1477855669
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -100,7 +101,7 @@
       1477930321, 
       1528104583
     ],
-    "wof:lastmodified": 1601921929,
+    "wof:lastmodified": 1601924082,
     "wof:name": "DL1380 (SFO-SLC)",
     "wof:parent_id": 1477930321,
     "wof:placetype": "event",
