@@ -2,7 +2,7 @@
   "id": 1729277497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2020-10-05T01:20:00Z",
+    "edtf:cessation": "2020-10-04T11:12:58-07:00",
     "edtf:inception": "2020-10-04T20:50:00Z",
     "flysfo:actual_timestamp": 1601861160,
     "flysfo:airline": "DL",
@@ -39,23 +39,24 @@
     "src:geom": "flysfo",
     "src:geom_alt": [
       "swim-route", 
-      "swim-path"
+      "swim-path", 
+      "swim-approach"
     ],
     "swim:tail_number": "N851DN",
     "wof:belongsto": [
-      1729277497, 
-      1477855657, 
-      102085387, 
-      1477855669, 
       102191575, 
-      85633793, 
-      102087579, 
-      102527513, 
-      85922583, 
-      1477855605, 
-      554784711, 
       85688637, 
-      1477930325
+      1477855657, 
+      1729277497, 
+      85922583, 
+      1477930325, 
+      1477855669, 
+      85633793, 
+      102085387, 
+      554784711, 
+      1477855605, 
+      102087579, 
+      102527513
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -101,7 +102,7 @@
       1477930325, 
       1377564285
     ],
-    "wof:lastmodified": 1601924080,
+    "wof:lastmodified": 1601924511,
     "wof:name": "DL717 (ATL-SFO)",
     "wof:parent_id": 1477930325,
     "wof:placetype": "event",
