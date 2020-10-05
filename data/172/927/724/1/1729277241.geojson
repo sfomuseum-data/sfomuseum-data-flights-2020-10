@@ -39,23 +39,24 @@
     "src:geom": "flysfo",
     "src:geom_alt": [
       "swim-route", 
-      "swim-path"
+      "swim-path", 
+      "swim-approach"
     ],
     "swim:tail_number": "N471AS",
     "wof:belongsto": [
       1477855605, 
-      1477855609, 
-      102087579, 
-      85922583, 
-      102191575, 
-      102085387, 
-      1477855607, 
-      1729277241, 
-      1477930339, 
       102527513, 
       85633793, 
+      1729277241, 
+      85922583, 
+      1477855609, 
+      102191575, 
+      1477930339, 
+      102085387, 
       554784711, 
-      85688637
+      85688637, 
+      1477855607, 
+      102087579
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -100,7 +101,7 @@
       1477930339, 
       1377564285
     ],
-    "wof:lastmodified": 1601927977,
+    "wof:lastmodified": 1601928774,
     "wof:name": "AS1213 (ORD-SFO)",
     "wof:parent_id": 1477930339,
     "wof:placetype": "event",
