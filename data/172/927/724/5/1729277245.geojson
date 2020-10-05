@@ -2,7 +2,7 @@
   "id": 1729277245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2020-10-05T02:10:58Z",
+    "edtf:cessation": "2020-10-04T12:06:48-07:00",
     "edtf:inception": "2020-10-04T22:53:32Z",
     "flysfo:actual_timestamp": 1601863800,
     "flysfo:airline": "AS",
@@ -39,22 +39,24 @@
     "src:geom": "flysfo",
     "src:geom_alt": [
       "swim-route", 
-      "swim-path"
+      "swim-path", 
+      "swim-approach"
     ],
+    "swim:tail_number": "N474AS",
     "wof:belongsto": [
-      85922583, 
-      1477930315, 
-      1477855605, 
       1477855835, 
+      102087579, 
       102085387, 
       1729277245, 
-      102191575, 
       85688637, 
-      1477855833, 
-      102527513, 
-      554784711, 
+      1477855605, 
       85633793, 
-      102087579
+      85922583, 
+      554784711, 
+      102527513, 
+      1477930315, 
+      1477855833, 
+      102191575
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -99,7 +101,7 @@
       1477930315, 
       1377564285
     ],
-    "wof:lastmodified": 1601925788,
+    "wof:lastmodified": 1601927973,
     "wof:name": "AS1273 (PVR-SFO)",
     "wof:parent_id": 1477930315,
     "wof:placetype": "event",

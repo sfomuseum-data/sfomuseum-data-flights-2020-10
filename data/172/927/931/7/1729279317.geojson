@@ -39,23 +39,24 @@
     "src:geom": "flysfo",
     "src:geom_alt": [
       "swim-route", 
-      "swim-path"
+      "swim-path", 
+      "swim-takeoff"
     ],
     "swim:tail_number": "N37466",
     "wof:belongsto": [
-      85922583, 
-      102087579, 
-      1729279317, 
-      85688637, 
-      102527513, 
       102191575, 
-      1477855699, 
-      85633793, 
+      1729279317, 
       1477930441, 
       1477855605, 
-      102085387, 
+      85633793, 
+      85922583, 
       554784711, 
-      1477855703
+      102527513, 
+      1477855699, 
+      1477855703, 
+      102087579, 
+      85688637, 
+      102085387
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -101,7 +102,7 @@
       1477930441, 
       1377564285
     ],
-    "wof:lastmodified": 1601925787,
+    "wof:lastmodified": 1601927976,
     "wof:name": "UA1780 (SFO-PDX)",
     "wof:parent_id": 1477930441,
     "wof:placetype": "event",

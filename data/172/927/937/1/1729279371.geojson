@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "2020-10-05T03:00:00Z",
-    "edtf:inception": "2020-10-05T01:57:00Z",
+    "edtf:inception": "2020-10-04T11:56:54-07:00",
     "flysfo:actual_timestamp": 1601862420,
     "flysfo:airline": "UA",
     "flysfo:date": "2020-10-04",
@@ -39,23 +39,24 @@
     "src:geom": "flysfo",
     "src:geom_alt": [
       "swim-route", 
-      "swim-path"
+      "swim-path", 
+      "swim-takeoff"
     ],
     "swim:tail_number": "N33203",
     "wof:belongsto": [
-      102527513, 
-      1477930395, 
-      1477855699, 
-      1477855605, 
       85633793, 
-      1729279371, 
-      102085387, 
-      1477855785, 
-      85922583, 
-      85688637, 
+      1477855699, 
       102191575, 
+      102085387, 
+      1477855605, 
+      102527513, 
       102087579, 
-      554784711
+      1477930395, 
+      1477855785, 
+      1729279371, 
+      85922583, 
+      554784711, 
+      85688637
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -101,7 +102,7 @@
       1477930395, 
       1159289871
     ],
-    "wof:lastmodified": 1601925789,
+    "wof:lastmodified": 1601927978,
     "wof:name": "UA386 (SFO-SNA)",
     "wof:parent_id": 1477930395,
     "wof:placetype": "event",

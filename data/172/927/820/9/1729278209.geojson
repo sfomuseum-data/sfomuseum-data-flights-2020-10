@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "2020-10-04T01:16:37-07:00",
-    "edtf:inception": "2020-10-05T14:47:00Z",
+    "edtf:inception": "2020-10-05T14:54:00Z",
     "flysfo:actual_timestamp": 1601824860,
     "flysfo:airline": "UA",
     "flysfo:date": "2020-10-04",
@@ -43,24 +43,24 @@
     ],
     "swim:tail_number": "N45956",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      1477855605, 
-      102087579, 
       1729278209, 
-      554784711, 
-      102527513, 
-      85633793, 
-      102085387, 
+      85922583, 
       1477930477, 
       1477855833, 
       1477855885, 
-      102191575
+      102191575, 
+      1477855605, 
+      102527513, 
+      102085387, 
+      554784711, 
+      85688637, 
+      85633793, 
+      102087579
     ],
     "wof:breaches": [],
     "wof:concordances": {
       "swim:flight_ref": "141042794",
-      "swim:gufi": "KO42124200"
+      "swim:gufi": "KO64171200"
     },
     "wof:country": "US",
     "wof:created": 1601921504,
@@ -101,7 +101,7 @@
       1477930477, 
       1159293215
     ],
-    "wof:lastmodified": 1601925785,
+    "wof:lastmodified": 1601927975,
     "wof:name": "UA870 (SYD-SFO)",
     "wof:parent_id": 1477930477,
     "wof:placetype": "event",
