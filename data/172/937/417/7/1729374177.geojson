@@ -17,9 +17,9 @@
     "flysfo:scheduled_timestamp": 1602962520,
     "flysfo:timestamp": 1602975600,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,0.000000,0.000000,37.617990",
-    "geom:latitude": 18.808995,
-    "geom:longitude": -61.1854715,
+    "geom:bbox": "-122.370943,32.815319,-79.979718,37.617990",
+    "geom:latitude": 35.216654500000004,
+    "geom:longitude": -101.1753305,
     "iata:airline": "UA",
     "icao:airline": "UAL",
     "iso:country": "US",
@@ -29,7 +29,7 @@
     "mz:is_current": -1,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:departure_id": -1,
+    "sfomuseum:departure_id": 102531215,
     "sfomuseum:flight_id": "20201017-A-UAL-2710",
     "sfomuseum:flight_number": [
       "UAL2710",
@@ -41,7 +41,7 @@
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1603037268,
-    "wof:geomhash": "39d9eba3dc111bfc07b45f612540f4b0",
+    "wof:geomhash": "243eaa3395ad4d3ecd5077abb427da7d",
     "wof:hierarchy": [
       {
         "event_id": 1729374177
@@ -54,7 +54,7 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1651267872,
+    "wof:lastmodified": 1652123109,
     "wof:name": "UA2710 (CHS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
@@ -65,9 +65,9 @@
   },
   "bbox": [
     -122.370943,
-    0,
-    0,
+    32.815319,
+    -79.979718,
     37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-79.979718,32.815319],[-122.370943,37.61799]],"type":"MultiPoint"}
 }
