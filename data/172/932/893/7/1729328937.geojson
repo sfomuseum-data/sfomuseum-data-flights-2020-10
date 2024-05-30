@@ -2,6 +2,10 @@
   "id": 1729328937,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-10-11",
+    "date:cessation_upper": "2020-10-11",
+    "date:inception_lower": "2020-10-11",
+    "date:inception_upper": "2020-10-11",
     "edtf:cessation": "2020-10-11T19:15:00Z",
     "edtf:inception": "2020-10-11T00:18:35-07:00",
     "flysfo:actual_timestamp": 1602457200,
@@ -32,14 +36,14 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20201011-D-UAL-2581",
     "sfomuseum:flight_number": [
-      "UAL2581", 
+      "UAL2581",
       "UA2581"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-takeoff"
     ],
     "swim:tail_number": "N2846U",
@@ -52,28 +56,35 @@
     "wof:country": "US",
     "wof:created": 1602519346,
     "wof:geomhash": "ff961493fc59fc665836e174da62aa8e",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729328937
+      }
+    ],
     "wof:id": 1729328937,
     "wof:involves": [
-      102533997, 
-      102527513, 
-      1159285413, 
-      -1, 
+      102533997,
+      102527513,
+      1159285413,
+      -1,
       1159289993
     ],
-    "wof:lastmodified": 1602519449,
+    "wof:lastmodified": 1717031734,
     "wof:name": "UA2581 (SFO-HNL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-10",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -157.918416, 
-    21.332508, 
-    -122.370943, 
+    -157.918416,
+    21.332508,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-157.918416,21.332508]],"type":"MultiPoint"}

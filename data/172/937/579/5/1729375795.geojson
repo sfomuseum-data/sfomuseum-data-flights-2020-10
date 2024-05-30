@@ -2,6 +2,10 @@
   "id": 1729375795,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-10-18",
+    "date:cessation_upper": "2020-10-18",
+    "date:inception_lower": "2020-10-18",
+    "date:inception_upper": "2020-10-18",
     "edtf:cessation": "2020-10-18T03:47:18-07:00",
     "edtf:inception": "2020-10-18T11:34:00Z",
     "flysfo:actual_timestamp": 1603062000,
@@ -32,14 +36,14 @@
     "sfomuseum:departure_id": 102534365,
     "sfomuseum:flight_id": "20201018-A-AAL-76",
     "sfomuseum:flight_number": [
-      "AAL76", 
+      "AAL76",
       "AA76"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-approach"
     ],
     "swim:tail_number": "N108NN",
@@ -52,28 +56,35 @@
     "wof:country": "US",
     "wof:created": 1603123315,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729375795
+      }
+    ],
     "wof:id": 1729375795,
     "wof:involves": [
-      102527513, 
-      102534365, 
-      1159283849, 
-      -1, 
+      102527513,
+      102534365,
+      1159283849,
+      -1,
       1159289411
     ],
-    "wof:lastmodified": 1603124290,
+    "wof:lastmodified": 1717031733,
     "wof:name": "AA76 (JFK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-10",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -73.787845, 
+    -122.370943,
+    37.61799,
+    -73.787845,
     40.643286
   ],
   "geometry": {"coordinates":[[-73.787845,40.643286],[-122.370943,37.61799]],"type":"MultiPoint"}

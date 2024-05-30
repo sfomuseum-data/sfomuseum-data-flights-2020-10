@@ -2,6 +2,10 @@
   "id": 1729313629,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-10-07",
+    "date:cessation_upper": "2020-10-07",
+    "date:inception_lower": "2020-10-07",
+    "date:inception_upper": "2020-10-07",
     "edtf:cessation": "2020-10-07T04:05:19Z",
     "edtf:inception": "2020-10-07T03:00:00Z",
     "flysfo:actual_timestamp": 1602111600,
@@ -30,7 +34,7 @@
     "sfomuseum:departure_id": 102528997,
     "sfomuseum:flight_id": "20201007-A-SWA-1551",
     "sfomuseum:flight_number": [
-      "SWA1551", 
+      "SWA1551",
       "WN1551"
     ],
     "sfomuseum:placetype": "flight",
@@ -43,27 +47,34 @@
     "wof:country": "US",
     "wof:created": 1602179486,
     "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729313629
+      }
+    ],
     "wof:id": 1729313629,
     "wof:involves": [
-      102527513, 
-      102528997, 
-      1159285591, 
+      102527513,
+      102528997,
+      1159285591,
       -1
     ],
-    "wof:lastmodified": 1602181425,
+    "wof:lastmodified": 1717031730,
     "wof:name": "WN1551 (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-10",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}

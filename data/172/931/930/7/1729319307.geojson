@@ -2,6 +2,10 @@
   "id": 1729319307,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-10-08",
+    "date:cessation_upper": "2020-10-08",
+    "date:inception_lower": "2020-10-08",
+    "date:inception_upper": "2020-10-08",
     "edtf:cessation": "2020-10-08T23:44:00Z",
     "edtf:inception": "2020-10-08T18:55:00Z",
     "flysfo:actual_timestamp": 1602198000,
@@ -32,13 +36,13 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20201008-D-AAL-651",
     "sfomuseum:flight_number": [
-      "AAL651", 
+      "AAL651",
       "AA651"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
+      "swim-route",
       "swim-path"
     ],
     "wof:belongsto": [],
@@ -50,28 +54,35 @@
     "wof:country": "US",
     "wof:created": 1602259775,
     "wof:geomhash": "262283982e32a09ea653beb1776c6fc7",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729319307
+      }
+    ],
     "wof:id": 1729319307,
     "wof:involves": [
-      102529403, 
-      102527513, 
-      1159283849, 
-      -1, 
+      102529403,
+      102527513,
+      1159283849,
+      -1,
       1159289411
     ],
-    "wof:lastmodified": 1602260234,
+    "wof:lastmodified": 1717031733,
     "wof:name": "AA651 (SFO-PHL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-10",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-75.247885,39.880952]],"type":"MultiPoint"}

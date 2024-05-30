@@ -2,6 +2,10 @@
   "id": 1729387997,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-10-23",
+    "date:cessation_upper": "2020-10-23",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
     "edtf:cessation": "2020-10-22T23:59:57-07:00",
     "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": 1603407600,
@@ -32,7 +36,7 @@
     "sfomuseum:departure_id": 102535777,
     "sfomuseum:flight_id": "20201022-A-UAL-2841",
     "sfomuseum:flight_number": [
-      "UAL2841", 
+      "UAL2841",
       "UA2841"
     ],
     "sfomuseum:placetype": "flight",
@@ -46,28 +50,35 @@
     "wof:country": "US",
     "wof:created": 1603469294,
     "wof:geomhash": "cfb34c2f58cdf1c02ffeb00ec136aa4c",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729387997
+      }
+    ],
     "wof:id": 1729387997,
     "wof:involves": [
-      102527513, 
-      102535777, 
-      1159285413, 
-      -1, 
+      102527513,
+      102535777,
+      1159285413,
+      -1,
       1159289993
     ],
-    "wof:lastmodified": 1603469794,
+    "wof:lastmodified": 1717031733,
     "wof:name": "UA2841 (GUM-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-10",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.370943, 
-    13.483889, 
-    144.797222, 
+    -122.370943,
+    13.483889,
+    144.797222,
     37.61799
   ],
   "geometry": {"coordinates":[[144.797222,13.483889],[-122.370943,37.61799]],"type":"MultiPoint"}

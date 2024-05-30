@@ -2,6 +2,10 @@
   "id": 1729327389,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-10-12",
+    "date:cessation_upper": "2020-10-12",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
     "edtf:cessation": "2020-10-11T17:36:57-07:00",
     "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": 1602457200,
@@ -32,7 +36,7 @@
     "sfomuseum:departure_id": 102532251,
     "sfomuseum:flight_id": "20201011-A-SCX-8644",
     "sfomuseum:flight_number": [
-      "SCX8644", 
+      "SCX8644",
       "SY8644"
     ],
     "sfomuseum:placetype": "flight",
@@ -46,28 +50,35 @@
     "wof:country": "US",
     "wof:created": 1602518845,
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729327389
+      }
+    ],
     "wof:id": 1729327389,
     "wof:involves": [
-      102527513, 
-      102532251, 
-      1159285227, 
-      -1, 
+      102527513,
+      102532251,
+      1159285227,
+      -1,
       1159289871
     ],
-    "wof:lastmodified": 1602519451,
+    "wof:lastmodified": 1717031733,
     "wof:name": "SY8644 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-10",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}

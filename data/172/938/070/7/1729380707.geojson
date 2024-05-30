@@ -2,6 +2,10 @@
   "id": 1729380707,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-10-20",
+    "date:cessation_upper": "2020-10-20",
+    "date:inception_lower": "2020-10-19",
+    "date:inception_upper": "2020-10-19",
     "edtf:cessation": "2020-10-20T00:00:00Z",
     "edtf:inception": "2020-10-19T22:26:00Z",
     "flysfo:actual_timestamp": 1603148400,
@@ -32,13 +36,13 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20201019-D-ASA-9803",
     "sfomuseum:flight_number": [
-      "ASA9803", 
+      "ASA9803",
       "AS9803"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-path", 
+      "swim-path",
       "swim-takeoff"
     ],
     "swim:tail_number": "N285AK",
@@ -50,28 +54,35 @@
     "wof:country": "US",
     "wof:created": 1603210387,
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729380707
+      }
+    ],
     "wof:id": 1729380707,
     "wof:involves": [
-      102526751, 
-      102527513, 
-      1159283813, 
-      -1, 
+      102526751,
+      102527513,
+      1159283813,
+      -1,
       1377564285
     ],
-    "wof:lastmodified": 1603210686,
+    "wof:lastmodified": 1717031731,
     "wof:name": "AS9803 (SFO-PHX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-10",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.370943, 
-    33.432684, 
-    -112.017392, 
+    -122.370943,
+    33.432684,
+    -112.017392,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-112.017392,33.432684]],"type":"MultiPoint"}

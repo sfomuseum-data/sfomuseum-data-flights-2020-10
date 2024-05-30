@@ -2,6 +2,10 @@
   "id": 1729287443,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-10-06",
+    "date:cessation_upper": "2020-10-06",
+    "date:inception_lower": "2020-10-06",
+    "date:inception_upper": "2020-10-06",
     "edtf:cessation": "2020-10-06T05:17:59Z",
     "edtf:inception": "2020-10-06T00:31:00Z",
     "flysfo:actual_timestamp": 1601938800,
@@ -32,13 +36,13 @@
     "sfomuseum:departure_id": 102528659,
     "sfomuseum:flight_id": "20201005-A-AAL-1729",
     "sfomuseum:flight_number": [
-      "AAL1729", 
+      "AAL1729",
       "AA1729"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
+      "swim-route",
       "swim-path"
     ],
     "swim:tail_number": "N561UW",
@@ -51,28 +55,35 @@
     "wof:country": "US",
     "wof:created": 1602005560,
     "wof:geomhash": "b96563c9986e04a3607ac552f48e111b",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729287443
+      }
+    ],
     "wof:id": 1729287443,
     "wof:involves": [
-      102527513, 
-      102528659, 
-      1159283849, 
-      -1, 
+      102527513,
+      102528659,
+      1159283849,
+      -1,
       1159289411
     ],
-    "wof:lastmodified": 1602006502,
+    "wof:lastmodified": 1717031734,
     "wof:name": "AA1729 (CLT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-10",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.370943, 
-    35.220744, 
-    -80.942777, 
+    -122.370943,
+    35.220744,
+    -80.942777,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.942777,35.220744],[-122.370943,37.61799]],"type":"MultiPoint"}

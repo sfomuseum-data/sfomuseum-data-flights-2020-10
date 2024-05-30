@@ -60,10 +60,13 @@
       -1,
       1159283849
     ],
-    "wof:lastmodified": 1651267844,
+    "wof:lastmodified": 1717031729,
     "wof:name": "QR2738 (SFO-ORD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-10",
     "wof:superseded_by": [],
     "wof:supersedes": [],

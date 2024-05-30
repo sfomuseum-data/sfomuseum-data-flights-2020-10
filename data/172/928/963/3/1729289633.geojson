@@ -102,10 +102,13 @@
       1477930465,
       1159292085
     ],
-    "wof:lastmodified": 1653352547,
+    "wof:lastmodified": 1717031734,
     "wof:name": "F92790 (SFO-PHX)",
     "wof:parent_id": 1729792653,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-10",
     "wof:superseded_by": [],
     "wof:supersedes": [],

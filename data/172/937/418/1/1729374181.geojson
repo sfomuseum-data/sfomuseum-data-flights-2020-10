@@ -2,6 +2,10 @@
   "id": 1729374181,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-10-17",
+    "date:cessation_upper": "2020-10-17",
+    "date:inception_lower": "2020-10-17",
+    "date:inception_upper": "2020-10-17",
     "edtf:cessation": "2020-10-17T16:49:00Z",
     "edtf:inception": "2020-10-17T03:45:00Z",
     "flysfo:actual_timestamp": 1602975600,
@@ -32,7 +36,7 @@
     "sfomuseum:departure_id": 102557783,
     "sfomuseum:flight_id": "20201017-A-UAL-2807",
     "sfomuseum:flight_number": [
-      "UAL2807", 
+      "UAL2807",
       "UA2807"
     ],
     "sfomuseum:placetype": "flight",
@@ -46,28 +50,35 @@
     "wof:country": "US",
     "wof:created": 1603037269,
     "wof:geomhash": "f3115fe3d28c66ab4b94072923e0b1bb",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729374181
+      }
+    ],
     "wof:id": 1729374181,
     "wof:involves": [
-      102527513, 
-      102557783, 
-      1159285413, 
-      -1, 
+      102527513,
+      102557783,
+      1159285413,
+      -1,
       1159293215
     ],
-    "wof:lastmodified": 1603037783,
+    "wof:lastmodified": 1717031732,
     "wof:name": "UA2807 (SYD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-10",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.370943, 
-    -33.934928, 
-    151.173388, 
+    -122.370943,
+    -33.934928,
+    151.173388,
     37.61799
   ],
   "geometry": {"coordinates":[[151.173388,-33.934928],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1729326369,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-10-11",
+    "date:cessation_upper": "2020-10-11",
+    "date:inception_lower": "2020-10-12",
+    "date:inception_upper": "2020-10-12",
     "edtf:cessation": "2020-10-11T16:12:47-07:00",
     "edtf:inception": "2020-10-12T00:39:00Z",
     "flysfo:actual_timestamp": 1602457200,
@@ -32,14 +36,14 @@
     "sfomuseum:departure_id": 102531023,
     "sfomuseum:flight_id": "20201011-A-AAL-2421",
     "sfomuseum:flight_number": [
-      "AAL2421", 
+      "AAL2421",
       "AA2421"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-approach"
     ],
     "swim:tail_number": "N821NN",
@@ -52,28 +56,35 @@
     "wof:country": "US",
     "wof:created": 1602518494,
     "wof:geomhash": "38f88108bbae8bb050c3144d37bdc384",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729326369
+      }
+    ],
     "wof:id": 1729326369,
     "wof:involves": [
-      102527513, 
-      102531023, 
-      1159283849, 
-      -1, 
+      102527513,
+      102531023,
+      1159283849,
+      -1,
       1159289871
     ],
-    "wof:lastmodified": 1602519446,
+    "wof:lastmodified": 1717031733,
     "wof:name": "AA2421 (MIA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-10",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.370943, 
-    25.79047, 
-    -80.296006, 
+    -122.370943,
+    25.79047,
+    -80.296006,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.296006,25.79047],[-122.370943,37.61799]],"type":"MultiPoint"}

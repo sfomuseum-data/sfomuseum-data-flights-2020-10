@@ -2,6 +2,10 @@
   "id": 1729319289,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-10-08",
+    "date:cessation_upper": "2020-10-08",
+    "date:inception_lower": "2020-10-08",
+    "date:inception_upper": "2020-10-08",
     "edtf:cessation": "2020-10-08T19:02:00Z",
     "edtf:inception": "2020-10-08T14:39:00Z",
     "flysfo:actual_timestamp": 1602198000,
@@ -32,13 +36,13 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20201008-D-AAL-1960",
     "sfomuseum:flight_number": [
-      "AAL1960", 
+      "AAL1960",
       "AA1960"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
+      "swim-route",
       "swim-path"
     ],
     "wof:belongsto": [],
@@ -50,28 +54,35 @@
     "wof:country": "US",
     "wof:created": 1602259769,
     "wof:geomhash": "6d7202e034534315a50103622977ef57",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729319289
+      }
+    ],
     "wof:id": 1729319289,
     "wof:involves": [
-      102528659, 
-      102527513, 
-      1159283849, 
-      -1, 
+      102528659,
+      102527513,
+      1159283849,
+      -1,
       1159289411
     ],
-    "wof:lastmodified": 1602260234,
+    "wof:lastmodified": 1717031733,
     "wof:name": "AA1960 (SFO-CLT)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-10",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.370943, 
-    35.220744, 
-    -80.942777, 
+    -122.370943,
+    35.220744,
+    -80.942777,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-80.942777,35.220744]],"type":"MultiPoint"}
